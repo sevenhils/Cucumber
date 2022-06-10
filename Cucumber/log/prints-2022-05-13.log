@@ -1,0 +1,7 @@
+13:59:26.580 [main] DEBUG resources.base - User  successfully clicked on welcomebutton
+13:59:27.521 [main] INFO  resources.base - User  successfully Logged out
+13:59:27.522 [main] ERROR resources.base - button is not displayed
+13:59:27.522 [main] FATAL resources.base - button is missing
+13:59:28.098 [main] INFO  resources.base - User entered username successfully
+13:59:28.204 [main] INFO  resources.base - User entered password successfully
+13:59:29.984 [main] DEBUG resources.base - User  successfully Logged in

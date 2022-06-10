@@ -1,0 +1,4 @@
+17:23:44.841 [main] INFO  resources.base - Browser is intialized
+17:23:50.667 [main] INFO  resources.base - User entered username successfully
+17:23:50.826 [main] INFO  resources.base - User entered password successfully
+17:23:53.086 [main] DEBUG resources.base - User  successfully Logged in
